@@ -1,1 +1,1 @@
-# light
+# brightnessctl
